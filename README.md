@@ -6,7 +6,7 @@ Project is about 80% complete, hope to finish Summer 2019.
 ![alt text](vpin_pics/vp1.JPG "1")
 ![alt text](vpin_pics/vp2.jpeg "2")
 ![alt text](vpin_pics/vp3.jpeg "3")
-![alt text](vpin_pics/vp4.jpeg"4")
+![alt text](vpin_pics/vp4.jpeg "4")
 ![alt text](vpin_pics/vp5.png "5")
 
 <div class="myvideo">
